@@ -4,7 +4,7 @@
 **idurgit/idurgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 📊 Waka Stats for the Last Week
+### 📊 WakaTime Stats for the Last Week
 <!--START_SECTION:waka-->
 Dart             27 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.60 %  
 PHP              12 hrs 7 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %  
