@@ -18,7 +18,7 @@ YAML             15 mins         ░░░░░░░░░░░░░░░�
 ### 🌱 About Me
 - 🔭 I’m currently working on **full-stack mobile applications**.
 - 🌱 I’m currently learning:  
-  `Laravel` | `Dart` | `Flutter` | `Filament` | `Rust` | `Golang` | `Node.js`
+  `Laravel` | `Dart` | `Filament` | `Rust` | `Golang` | `Node.js`
 
 ---
 
