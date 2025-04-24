@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**idurgit/idurgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I am a **Flutter Developer** passionate about creating full-stack mobile applications. 🚀
+
+---
 
 ### 📊 WakaTime Stats for the Last Week
 <!--START_SECTION:waka-->
@@ -13,13 +13,21 @@ Groovy           17 mins         ░░░░░░░░░░░░░░░�
 YAML             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %  
 <!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 About Me
+- 🔭 I’m currently working on **full-stack mobile applications**.
+- 🌱 I’m currently learning:  
+  `Laravel` | `Dart` | `Flutter` | `Filament` | `Rust` | `Golang` | `Node.js`
+
+---
+
+### 📫 How to Reach Me
+- 💬 **Instagram**: [Rudi Supratman](https://www.instagram.com/rudisupratman97)  
+- 💼 **LinkedIn**: [Rudi Supratman](https://www.linkedin.com/in/rudi-supratman-324233281)  
+- 🎥 **YouTube**: [Idursoft](https://www.youtube.com/@adde5863)
+
+---
+
+### ⚡ Fun Fact
+- I love exploring **social media** for tutorials and tech inspiration! 🎥
