@@ -2,18 +2,15 @@
 
 <!--
 **idurgit/idurgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-### 📊 Weekly development breakdown
+### 📊 Waka Stats in The Last Week
 <!--START_SECTION:waka-->
-
-```txt
 Dart             27 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.60 %
 PHP              12 hrs 7 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
 Blade Template   9 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
 Groovy           17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 YAML             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
-
 <!--END_SECTION:waka-->
 
 Here are some ideas to get you started:
@@ -26,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
