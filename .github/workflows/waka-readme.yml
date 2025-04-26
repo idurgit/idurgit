@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM Asia/Jakarta
-    - cron: "0 5 * * *"
+    # runs at 12 AM Asia/Jakarta (5 PM UTC)
+    - cron: "0 17 * * *"
 
 jobs:
   update-readme:
@@ -24,5 +24,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git pull --rebase origin main
           git add . && git commit -m "Updated WakaTime stats" || echo "No changes to commit"
           git push
