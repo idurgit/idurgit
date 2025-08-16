@@ -8,10 +8,10 @@ I am a **Flutter Developer** passionate about creating full-stack mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   26 hrs 57 mins  ███████████████████████▓░   94.64 %
-PHP    42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-YAML   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Dart   26 hrs 34 mins  ███████████████████████▓░   94.53 %
+PHP    46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+YAML   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+JSON   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
