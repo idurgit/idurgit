@@ -35,3 +35,5 @@ Bash              9 mins          █▒░░░░░░░░░░░░░�
 
 ### ⚡ Fun Fact
 - I love exploring **social media** for tutorials and tech inspiration! 🎥
+
+![Profile views](https://komarev.com/ghpvc/?username=idurgit)
