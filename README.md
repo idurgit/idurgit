@@ -30,6 +30,7 @@ Other      6 mins                ▒░░░░░░░░░░░░░░�
 - 💬 **Instagram**: [Rudi Supratman](https://www.instagram.com/rudisupratman97)  
 - 💼 **LinkedIn**: [Rudi Supratman](https://www.linkedin.com/in/rudi-supratman-324233281)  
 - 🎥 **YouTube**: [Idursoft](https://www.youtube.com/@adde5863)
+- 🌐 **Website**: [Idursoft](https://idursoft.biz.id/)
 
 ---
 
